@@ -11,17 +11,17 @@ package AsistensiTugas2;
  */
 public class Pelajar {
 
-    private int nip;
+    private long nip;
     private String nama;
     private double nilaiUjian1;
     private double nilaiUjian2;
     private double nilaiTugas;
 
-    public int getNip() {
+    public long getNip() {
         return nip;
     }
 
-    public void setNip(int nip) {
+    public void setNip(long nip) {
         this.nip = nip;
     }
 
