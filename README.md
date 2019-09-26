@@ -20,14 +20,15 @@ untuk menampilkan informasi buku.
   dimana dinyatakan lulus bila nilai akhirnya sama dengan 60 keatas. Dan ada pula method status
   yang digunakan untuk menampilkan status lulus atau tidaknya pelajar tersebut.
 ~~~~
-## CODING
+## SOURCE CODE
 #### 1. Latihan
-[Buku]
-[BukuMain]
+[Buku](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Buku.java)
+
+[BukuMain](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/BukuMain.java)
 #### 2. Tugas
-[Pelajar]
-[PelajarMain]
-[view here](https://github.com/asistensi-matematika/tugas2/blob/master/soal.ipynb)
+[Pelajar](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Pelajar.java)
+
+[PelajarMain](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/PelajarMain.java)
 ## HASIL RUNNING
 #### 1. Latihan
 ~~~~
