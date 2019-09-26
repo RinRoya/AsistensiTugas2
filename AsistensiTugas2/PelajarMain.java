@@ -19,7 +19,7 @@ public class PelajarMain {
             System.out.print("Masukkan Nama\t\t: ");
             String nama = baca.nextLine();
             System.out.print("Masukkan NIP\t\t: ");
-            int nip = baca.nextInt();
+            long nip = baca.nextLong();
             System.out.print("Masukkan Nilai Ujian 1\t: ");
             double nilai1 = baca.nextDouble();
             System.out.print("Masukkan Nilai Ujian 2\t: ");
