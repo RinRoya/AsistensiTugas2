@@ -22,13 +22,13 @@ untuk menampilkan informasi buku.
 ~~~~
 ## SOURCE CODE
 #### 1. Latihan
-[Buku](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Buku.java)
+[Buku.java](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Buku.java)
 
-[BukuMain](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/BukuMain.java)
+[BukuMain.java](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/BukuMain.java)
 #### 2. Tugas
-[Pelajar](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Pelajar.java)
+[Pelajar.java](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/Pelajar.java)
 
-[PelajarMain](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/PelajarMain.java)
+[PelajarMain.java](https://github.com/RinRoya/AsistensiTugas2/blob/master/AsistensiTugas2/PelajarMain.java)
 ## HASIL RUNNING
 #### 1. Latihan
 ~~~~
