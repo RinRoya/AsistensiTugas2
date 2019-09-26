@@ -15,10 +15,35 @@ untuk menampilkan informasi buku.
    Buatlah sebuah class Pelajar dengan ketentuansebagai berikut:
 * memiliki atribut : nip, nama, nilaiUjian1, nilaiUjian2, nilaiTugas.
 * memiliki method nilaiAkhir untuk menghitung nilai akhir dari pelajar tersebut dimana rumusnya
-  adalah 40% nilai ujian 1 + 40% nilai ujian 2 + 20% nilai tugas.
-* ada method isLulus yang digunakan untuk mengecek apakah seseorang siswa lulus atau tidak, dimana dinyatakan lulus bila nilai akhirnya sama dengan 60 keatas. Dan ada pula method status yang digunakan untuk menampilkan status lulus atau tidaknya pelajar tersebut.
+  adalah 40% nilai ujian1 + 40% nilai ujian2 + 20% nilai tugas.
+* ada method isLulus yang digunakan untuk mengecek apakah seseorang siswa lulus atau tidak,
+  dimana dinyatakan lulus bila nilai akhirnya sama dengan 60 keatas. Dan ada pula method status
+  yang digunakan untuk menampilkan status lulus atau tidaknya pelajar tersebut.
 ~~~~
+## CODING
+#### 1. Latihan
+[Buku]
+[BukuMain]
+#### 2. Tugas
+[Pelajar]
+[PelajarMain]
 [view here](https://github.com/asistensi-matematika/tugas2/blob/master/soal.ipynb)
 ## HASIL RUNNING
-Tampilan Outputan GUI
-![asis2](https://user-images.githubusercontent.com/49511033/57441459-386dbf00-7274-11e9-8952-e5a80d7bf7c0.PNG)
+#### 1. Latihan
+~~~~
+Jika Inputan Benar
+~~~~
+![BukuBenar](https://user-images.githubusercontent.com/49511033/65705244-418beb00-e0b2-11e9-84b5-5c2a046503fc.PNG)
+~~~~
+Jika Inputan Salah
+~~~~
+![BukuSalah](https://user-images.githubusercontent.com/49511033/65705249-4486db80-e0b2-11e9-9d98-cc8974413025.PNG)
+#### 2. Tugas
+~~~~
+Jika Inputan Benar
+~~~~
+![PelajarBenar](https://user-images.githubusercontent.com/49511033/65705233-3afd7380-e0b2-11e9-9090-1a1f1e89e1d3.PNG)
+~~~~
+Jika Inputan Salah
+~~~~
+![PelajarSalah](https://user-images.githubusercontent.com/49511033/65705234-3c2ea080-e0b2-11e9-8681-5230b407af49.PNG)
