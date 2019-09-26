@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package AsistensiTugas2;
+
 import java.util.Scanner;
 
 /**
