@@ -12,7 +12,7 @@ untuk menampilkan informasi buku.
 ~~~~
 ~~~~
 2. TUGAS
-   Buatlah sebuah class Pelajar dengan ketentuansebagai berikut:
+   Buatlah sebuah class Pelajar dengan ketentuan sebagai berikut:
 * memiliki atribut : nip, nama, nilaiUjian1, nilaiUjian2, nilaiTugas.
 * memiliki method nilaiAkhir untuk menghitung nilai akhir dari pelajar tersebut dimana rumusnya
   adalah 40% nilai ujian1 + 40% nilai ujian2 + 20% nilai tugas.
